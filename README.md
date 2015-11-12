@@ -1,4 +1,4 @@
-# agnostic_db
+# agnostic_db [![Build Status](https://travis-ci.org/jreinert/agnostic_db.svg)](https://travis-ci.org/jreinert/agnostic_db)
 
 TODO: Write a description here
 
